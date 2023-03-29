@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white)
 
 ### Contents
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjjuuuun.github.io/)](https://jjjuuuun.github.io/)
