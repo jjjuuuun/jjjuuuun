@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjjuuuun%2F&count_bg=%23EDDC09&title_bg=%23D75B5B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div align="center">
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjuuuun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuuuun&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjy961226)](https://solved.ac/kjy961226/)
 
+ 
 # 💪 Skills
 
 ### Languages
@@ -37,3 +42,5 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjjuuuun.github.io/)](https://jjjuuuun.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjy961226@gmail.com)](mailto:kjy961226@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjy961226@naver.com)](mailto:kjy961226@naver.com)
+
+</div>
