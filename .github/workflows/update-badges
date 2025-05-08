@@ -12,3 +12,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "junyoung-kim"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
