@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+# 🪪 Certification 🪪
+[![CKA](https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/15fa8df4-5b57-4eb0-863d-ed36387497de "CKA(Certified Kubernetes Administrator)")
 
 # 👨‍💻 Me 👨‍💻
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjjuuuun.github.io/)](https://jjjuuuun.github.io/)
