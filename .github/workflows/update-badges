@@ -1,7 +1,5 @@
 name: Update Readme Actions
 on:
-  schedule:
-    - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
