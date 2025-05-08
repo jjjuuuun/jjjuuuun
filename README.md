@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 # 👨‍💻 Me 👨‍💻
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjjuuuun.github.io/)](https://jjjuuuun.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjy961226@gmail.com)](mailto:kjy961226@gmail.com)
