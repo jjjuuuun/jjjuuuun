@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 # 📜 Certification 📜
 [![CKA](https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/15fa8df4-5b57-4eb0-863d-ed36387497de "CKA(Certified Kubernetes Administrator)")
+[![CKS](https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/badges/e3ca29b9-b9fe-4d4e-85a0-5e3915f52ebc/public_ur "CKS(Certified Kubernetes Security Specialist)")
 
 # 👨‍💻 Me 👨‍💻
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjjuuuun.github.io/)](https://jjjuuuun.github.io/)
