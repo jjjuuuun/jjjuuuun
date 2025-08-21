@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Hits](https://hits.sh/github.com/jjjuuuun.svg?style=for-the-badge&label=Visitors&color=645f5f&labelColor=cc9911)](https://hits.sh/github.com/jjjuuuun/)
+[![Hits](https://hits.sh/github.com/jjjuuuun.svg?view=today-total&label=Visitors&color=cc9911)](https://hits.sh/github.com/jjjuuuun/)
 
 <div align="center">
 
